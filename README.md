@@ -7,10 +7,10 @@ This table shows rank of each suit in order (_rank 1 will win against rank 2 and
 
 |Rank|Suit      |Name    |
 |:--:|:--------:|:------:|
-|1   |&#9828;   |Spade   |
-|2   |&#9825;   |Heart   |
-|3   |&#9831;   |Club    |
-|4   |&#9826;   |Diamond |
+|1   |&spades;  |Spade   |
+|2   |&hearts;  |Heart   |
+|3   |&clubs;   |Club    |
+|4   |&diams;   |Diamond |
 
 
 ## Game Details
